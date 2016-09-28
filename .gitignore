@@ -1,0 +1,7 @@
+target
+.nrepl-*
+.lein-*
+.projectile
+.#*
+.m2
+.DS_Store
